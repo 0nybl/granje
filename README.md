@@ -1,4 +1,4 @@
-# rust_template
+# granje
 
 Starter template for `0nybl` Rust projects. Created via **Use this template**.
 
