@@ -1,7 +1,7 @@
 name: 0jot
 on:
   push:
-    branches: [main]
+    branches: [main, dev]
   workflow_dispatch:
 
 permissions:
